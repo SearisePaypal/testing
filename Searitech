@@ -1,0 +1,105 @@
+Team:
+project 1
+========
+1. AWS Accounts are created for all team members 
+2. Create a redhat8 linux server 
+3. Connect to the redhat8 server using mobaXterm/terminal ssh-cleint 
+4. Program or configure the server for password authentication   
+5. Create a user call Searise and assign a password [admin123]
+6. Create a group call Searitech and add searise to searisetech group
+7. Create a directory in searise home directory call Searitech, 
+   in searisetech directory Create a searise.txt, in searise.txt 
+   write your experience about this class and your goals concerning this DevOps program
+8. Connect to your server using Searise's user
+9. Run commands in the server as Searise's user 
+    
+
+project 2
+========    
+7. Connect to your server using Searise user's details  
+8. Run your scripts as Searise user 
+
+
+[200~Git Is a SCM
+What is SCM?
+SCM is a Source Code Manager
+Git is the one of the important DevOps tool, Git allow the engineers
+to colaborate on and from the development leve up to the production level
+Distributed VCS:
+  ===============
+GIT: DVCs 
+  Distributed Version Control system 
+  - Git manage data as snapshots. 0 / 10 / 20 / 30 / 40 / 50 / 60 / 
+  - It takes a picture of what all your files look like 
+     at that moment and stores 
+    a reference to that snapshot.
+    Benefits: Nearly every operation is local
+            git has data intergrity
+            Git generally only adds data
+
+deply.java
+    echo "Welcome to Paypal"                    = Bee
+    echo "Paypal your payment gateway"          = Olayinka  
+    echo "Paypal is the gateway of the future"  = Adeyinka  
+    echo "Paypal is offering 30% discount"      = Ayomide
+    echo "Good deals for returing clients"      = Olubunmi
+
+Git is a Distributed Version Control systems. DVCS
+In our environments (Searisetech) we use Git for Versioning. 
+
+IQ: As a DevOps Engineer, what are your roles & responsilities in Versioning with Git?
+Answer:
+  1. We ensure that Developers environments are configured and secured 
+     We create an enabling environment for Developers to code/Develope
+       DevelopmentServers are created in AWS.  
+       share login details with Developers/Team [ userName/password ]  
+       Ensure that git package/Software is installed 
+
+2. Project Onboarding: 
+       Create organisations where applicable in a SCM  
+       Create repositories in SCM [GitHub] 
+       Create teams in SCM and assign members[Developers, etc.] 
+
+Git Installations
+-----------------
+Pre Requisite Software Download/ Registration :
+Install git in Windows   :  
+  Window system =Install git bash @ https://git-scm.com/downloads 
+
+    
+
+Install in RedHAT Linux servers:
+    sudo yum install git  -y 
+    $ git --version
+  git version 2.31.1
+===============================================================
+then create directory in your  called Paypal
+cd Paypal
+  or:
+mkdir paypal && cd paypal
+Initialise this directory to keep track of 
+any change or changes in the files/codes  
+
+Git Commands:
+  git init	
+  git status 
+  create a Local repository [.git]  
+  git add 
+  git commit -m
+  git log 
+  git romote add RemoteRepoURL
+
+  working area        staging     localRepo     RemoteRepo[GitHub]    :
+  -----------        -------      ---------     ------------------  
+  Untracked files     git add     git commit    git push 
+    red                green     
+
+
+git config --global user.email "searisetech@gmail.com"
+git config --global user.name "SeariTech"
+git config --global --list
+
+https://github.com/SearisePaypal/paypal
+
+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
+git remote add student https://github.com/SearisePaypal/paypal 
