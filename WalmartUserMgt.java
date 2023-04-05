@@ -6,3 +6,4 @@ Checkin
 Select items
 Checkout
 Payment
+Thanks 
