@@ -8,3 +8,4 @@ The Walmart Black friday App brings latest shopping deals
 The Walmart Black Friday App were you can create content
 The Walmart Black friday App that Run giveaway
 With walmart Black friday App you can save big
+Save More,Go Shopping on the Black Walmart friday app 
