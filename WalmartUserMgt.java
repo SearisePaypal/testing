@@ -10,3 +10,4 @@ The Walmart Black friday App that Run giveaway
 With walmart Black friday App you can save big
 Save More,Go Shopping on the Black Walmart friday app 
 black friday is comming up next month
+The walmart black friday will be on for 2 months 
