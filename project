@@ -1,2 +1,7 @@
 Git is a Distributed Version Control systems. DVCS
 In our environments (Searisetech) we use Git for Versioning
+
+Project Onboarding: 
+       Create organisations where applicable in a SCM  
+       Create repositories in SCM [GitHub] 
+       Create teams in SCM and assign members[Developers, etc.] 
