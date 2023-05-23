@@ -6,4 +6,7 @@ Checkin
 Select items
 Checkout
 Payment
-Thanks 
+Thanks
+Total Clearance
+On all items
+Get it now 
