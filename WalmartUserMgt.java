@@ -9,4 +9,5 @@ Payment
 Thanks
 Total Clearance
 On all items
-Get it now 
+Get it now
+Hurry up and pick your items for school 
